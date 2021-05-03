@@ -1,0 +1,2 @@
+# Cortexekipregister
+Cortex Ekip Register 
